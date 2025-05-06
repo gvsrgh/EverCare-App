@@ -3,8 +3,6 @@
 📌 **Overview**
 EverCare is a mobile application designed to assist elderly individuals in managing their health and medication intake. It enables family members to monitor health parameters and receive alerts if medication doses are missed. The system promotes independent living while ensuring timely assistance when needed.
 
----
-
 🚀 **Features**
 
 🏥 **Health Monitoring**
@@ -22,20 +20,14 @@ EverCare is a mobile application designed to assist elderly individuals in manag
 
 * Simple confirmation system to reassure family members about well-being.
 
----
-
 🎯 **Target Audience**
 
 * Elderly Individuals needing assistance with medication tracking.
 * Family Members & Caregivers who want to stay updated on their loved ones' health.
 * Retirement Communities & Assisted Living Facilities for medication monitoring.
 
----
-
 📱 **Download APK**
-🔗 *Click Here to Download the APK*
-
----
+🔗 *[Click Here to Download the APK](https://github.com/C-S-V-S-Subrahmanyam/EverCare-App/raw/refs/heads/main/app-debug.apk)*
 
 🛠️ **Tech Stack**
 
@@ -45,8 +37,6 @@ EverCare is a mobile application designed to assist elderly individuals in manag
 * **Database:** Firebase (if applicable) or Local Storage
 * **APIs:** Android SDK, Google Play Services (if used)
 
----
-
 👨‍💻 **Developed By:**
 
 * G. Venkata Sai Ram
@@ -54,17 +44,11 @@ EverCare is a mobile application designed to assist elderly individuals in manag
 * Abdul Azeez
 * I. Nithyananda Reddy
 
----
-
 🤝 **Contributing**
 We welcome contributions! Feel free to fork the repository, create a branch, and submit a pull request.
 
----
-
 📜 **License**
 This project is licensed under the MIT License.
-
----
 
 📬 **Contact**
 For any queries or suggestions, please contact: \[Your Email] or open an issue in the repository.
