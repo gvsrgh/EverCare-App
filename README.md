@@ -27,7 +27,7 @@ EverCare is a mobile application designed to assist elderly individuals in manag
 * Retirement Communities & Assisted Living Facilities for medication monitoring.
 
 📱 **Download APK**
-🔗 *[Click Here to Download the APK](https://github.com/C-S-V-S-Subrahmanyam/EverCare-App/raw/refs/heads/main/app-debug.apk)*
+🔗 *[Click Here to Download the APK](https://github.com/gvsrgh/EverCare-App/blob/main/app-debug.apk)*
 
 🛠️ **Tech Stack**
 
