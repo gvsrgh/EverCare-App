@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742197835517",
+    "firebase_url": "https://ever-care2-default-rtdb.firebaseio.com",
+    "project_id": "ever-care2",
+    "storage_bucket": "ever-care2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742197835517:android:f82a0878d08853bc443094",
+        "android_client_info": {
+          "package_name": "com.example.ever_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0poEaRTYxdKTNjlnEXA0vNT3TOhP-q1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
